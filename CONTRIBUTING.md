@@ -2,6 +2,8 @@
 
 Thank you for your interest in contributing to this project.
 
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
 This repository contains a simple interest calculator created as part of a micro-finance startup initiative and an example of migrating projects from Subversion (SVN) to Git.
 
 We welcome contributions from the community.
